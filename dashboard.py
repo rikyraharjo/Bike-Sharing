@@ -1,3 +1,10 @@
+"""
+Author: riky raharjo
+Date: 03/03/2024
+Usage:
+- This module is used to create a dashboard for the bike sharing data.
+"""
+
 # Import semua packages/library yang digunakan
 import streamlit as st
 import pandas as pd
