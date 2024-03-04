@@ -53,3 +53,5 @@ st.write(f"Penyewaan sepeda terbanyak terjadi di bulan {bulan_terbanyak}, sedang
 
 # Export data yang sudah bersih ke csv (opsional)
 # data_cleaned.to_csv('CleareData.csv', index=False)
+
+st.caption('Copyright (c) riky-raharjo 2024')
