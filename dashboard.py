@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load data
-file_path = r"C:\Users\Riky\Documents\Belajar MSIB Bangkit\Materi\Dicoding\4 Belajar Analisis Data dengan Python\Praktek\Submission Analisis Data menggunakan Python\data\CleareData.csv"
+file_path = "./data/CleareData.csv"
 data_cleaned = pd.read_csv(file_path)
 
 # Judul dashboard
